@@ -1,25 +1,25 @@
 # Garage-Sale
 Secure marketplace for college students
 
-Project Description
+## Project Description
 
-Team
+## Team
 Looking for 3 or 4 people with full stack experience.
 
-SQL
+## SQL
 Ideally, we'd lean towards using noSQL databases as much as possible.
 
-No-SQL
+## No-SQL
 MongoDB is quite likely but other suggestions are welcome.
 
-Business
+## Business
 Transaction fees.
 Possible ads.
 
-Legal
+## Legal
 Utah LLC.
 
-Technical
+## Technical
 Priorities:
 1. Choose SQL database
 2. Choose Web or App implementation
