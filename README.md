@@ -1,7 +1,7 @@
 # Garage-Sale
-Secure marketplace for college students
 
 ## Project Description
+Secure marketplace for college students.
 
 ## Team
 Looking for 3 or 4 people with full stack experience.
@@ -25,3 +25,5 @@ Priorities:
 2. Choose Web or App implementation
 3. Choose programming languages
 4. Build MVP
+
+Biggest challenge will be preventing fake accounts.
